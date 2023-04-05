@@ -1,0 +1,31 @@
+.nav
+{
+  grid-area: nav;
+  background-color: gray;
+}
+
+a
+{
+  color: white;
+  text-decoration: none;
+}
+
+.nav a.active
+{
+  color: black;
+}
+
+.nav a:hover
+{
+  color: black;
+}
+
+.online
+{
+  color: greenyellow;
+}
+
+.offline
+{
+  color: red;
+}

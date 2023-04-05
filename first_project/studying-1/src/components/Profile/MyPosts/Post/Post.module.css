@@ -1,0 +1,15 @@
+.content
+{
+  color: brown;
+  padding: 5px;
+  margin: 5px;
+  border: solid 2px black;
+  background-color: white;
+}
+
+.like
+{
+  text-align: center;
+  width: 100px;
+  background-color: pink;
+}

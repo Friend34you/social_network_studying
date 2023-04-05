@@ -1,0 +1,32 @@
+.src
+{
+    width: 100px;
+}
+
+.wrapper 
+{
+    background-color: tomato;
+    padding: 10px;
+    margin: 10px;
+    font-size: 30px;
+}
+
+.usersList
+{
+    padding: 12px;
+    width: 100%;
+}
+
+.usersPageButton
+{
+    user-select: none;
+    padding: 2px;
+}
+
+.usersPageButtonActive
+{
+    user-select: none;
+    font-weight: bold;
+    color: chocolate;
+    padding: 2px;
+}
